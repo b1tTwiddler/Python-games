@@ -8,8 +8,7 @@ A repository of some 2D games
 
 # SLIDING PUZZLE GAME
 
-Game:
-![game](sliding-puzzle-game/game_screenshot.png)
+![](sliding-puzzle-game/game_screenshot.png)
 
 The board is a 4x4 grid with fifteen tiles (numbered 1 through 15 going left to right) and one
 blank space. The tiles start out in random positions, and the player must slide tiles around until
